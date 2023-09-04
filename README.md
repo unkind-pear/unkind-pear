@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋😃, I'm Andrew</h1>
 <h3 align="center">🧱REALIBLE🧱 and 🔥DRIVEN🔥! I might be just the one you need!</h3>
-
-- 📫 How to reach me **[andrewbmoreira2@gmail.com](https://mail.google.com/mail/?view=cm&to=andrewbmoreira2@gmail.com)**
+📫 How to reach me **[andrewbmoreira2@gmail.com](https://mail.google.com/mail/?view=cm&to=andrewbmoreira2@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
