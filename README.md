@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋😃, I'm Andrew</h1>
 <h3 align="center">🧱REALIBLE🧱 and 🔥DRIVEN🔥! I might be just the one you need!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unkind-pear&label=Profile%20views&color=0e75b6&style=flat" alt="unkind-pear" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unkind-pear" alt="unkind-pear" /></a> </p>
-
 - 📫 How to reach me **[andrewbmoreira2@gmail.com](https://mail.google.com/mail/?view=cm&to=andrewbmoreira2@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
