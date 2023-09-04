@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋😃, I'm Andrew</h1>
 <h3 align="center">🧱REALIBLE🧱 and 🔥DRIVEN🔥! I might be just the one you need!</h3>
-📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&to=andrewbmoreira2@gmail.com" target="_blank">andrewbmoreira2@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,3 +12,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unkind-pear&show_icons=true&locale=en&layout=compact" alt="unkind-pear" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unkind-pear&show_icons=true&locale=en" alt="unkind-pear" /></p>
+
+##
+
+<a href = "devhrsnd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
