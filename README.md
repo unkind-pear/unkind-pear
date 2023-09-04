@@ -13,5 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unkind-pear&show_icons=true&locale=en&layout=compact" alt="unkind-pear" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unkind-pear&show_icons=true&locale=en" alt="unkind-pear" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unkind-pear&" alt="unkind-pear" /></p>
