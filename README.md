@@ -23,4 +23,4 @@
 ##
 
 <a href = "https://mail.google.com/mail/?view=cm&to=andrewbmoreira2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
-<a href = "https://linkedin.com/in/andrew-brancalhone-moreira-46b37226b"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/andrew-brancalhone-moreira-122941303/"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" target="_blank"></a>
