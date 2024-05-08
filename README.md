@@ -17,7 +17,9 @@
 
 <br>
 
-<img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=unkind-pear&show_icons=true&locale=en&layout=compact&theme=dark" alt="unkind-pear"> <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=unkind-pear&show_icons=true&locale=en&theme=dark" alt="unkind-pear">
+<dic style="display: flex; justify-content: space-around;">
+  <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=unkind-pear&show_icons=true&locale=en&layout=compact&theme=dark" alt="unkind-pear"> <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=unkind-pear&show_icons=true&locale=en&theme=dark" alt="unkind-pear">
+</div>
 
 
 ##
