@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋😊, I'm Andrew</h1>
+<h1 align="center">Hi 👋😊</h1>
 
 <h3 align="left" style="color: blue;">Languages and Tools:</h3>
 <div style="display: inline-block">
@@ -13,13 +13,6 @@
   <img align="center" alt="mongodb" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="tailwind-css" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-</div>
-
-<br>
-
-<dic style="display: flex; justify-content: space-around; align-items: center;">
-  <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=unkind-pear&show_icons=true&locale=en&layout=compact&theme=dark" alt="unkind-pear">
-  <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=unkind-pear&show_icons=true&locale=en&theme=dark" alt="unkind-pear">
 </div>
 
 
