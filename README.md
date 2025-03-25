@@ -1,5 +1,3 @@
-<h1 align="center">To 42 or to 69? That is thy question</h1>
-
 <h3 align="left" style="color: blue;">Languages and Tools:</h3>
 <div style="display: inline-block">
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
