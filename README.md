@@ -11,6 +11,7 @@
   <img align="center" alt="mongodb" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="tailwind-css" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+  <img align="center" alt="gamemaker" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GameMakerStudio.svg">
 </div>
 
 
