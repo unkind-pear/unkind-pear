@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋😊</h1>
+<h1 align="center">To 42 or to 69? That is thy question</h1>
 
 <h3 align="left" style="color: blue;">Languages and Tools:</h3>
 <div style="display: inline-block">
